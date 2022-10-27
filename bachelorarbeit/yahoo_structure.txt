@@ -1,0 +1,133 @@
+stdClass Object
+(
+    [type] => 1
+    [encoding] => 0
+    [ifsubtype] => 1
+    [subtype] => MIXED
+    [ifdescription] => 0
+    [ifid] => 0
+    [ifdisposition] => 0
+    [ifdparameters] => 0
+    [ifparameters] => 1
+    [parameters] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [attribute] => boundary
+                    [value] => ----=_Part_1042740_102959718.1659615822135
+                )
+
+        )
+
+    [parts] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => 1
+                    [encoding] => 0
+                    [ifsubtype] => 1
+                    [subtype] => ALTERNATIVE
+                    [ifdescription] => 0
+                    [ifid] => 0
+                    [ifdisposition] => 0
+                    [ifdparameters] => 0
+                    [ifparameters] => 1
+                    [parameters] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [attribute] => boundary
+                                    [value] => ----=_Part_1042737_1440979020.1659615822083
+                                )
+
+                        )
+
+                    [parts] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => 0
+                                    [encoding] => 4
+                                    [ifsubtype] => 1
+                                    [subtype] => PLAIN
+                                    [ifdescription] => 0
+                                    [ifid] => 0
+                                    [lines] => 28
+                                    [bytes] => 733
+                                    [ifdisposition] => 0
+                                    [ifdparameters] => 0
+                                    [ifparameters] => 1
+                                    [parameters] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [attribute] => charset
+                                                    [value] => UTF-8
+                                                )
+
+                                        )
+
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => 0
+                                    [encoding] => 4
+                                    [ifsubtype] => 1
+                                    [subtype] => HTML
+                                    [ifdescription] => 0
+                                    [ifid] => 0
+                                    [lines] => 47
+                                    [bytes] => 3581
+                                    [ifdisposition] => 0
+                                    [ifdparameters] => 0
+                                    [ifparameters] => 1
+                                    [parameters] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [attribute] => charset
+                                                    [value] => UTF-8
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [type] => 5
+                    [encoding] => 3
+                    [ifsubtype] => 1
+                    [subtype] => JPEG
+                    [ifdescription] => 0
+                    [ifid] => 1
+                    [id] => <1e55dc78-d372-21db-e861-e7ca6ff679d3@yahoo.com>
+                    [bytes] => 54388
+                    [ifdisposition] => 1
+                    [disposition] => inline
+                    [ifdparameters] => 1
+                    [dparameters] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [attribute] => filename
+                                    [value] => paypal-logo.jpg
+                                )
+
+                        )
+
+                    [ifparameters] => 0
+                    [parameters] => stdClass Object
+                        (
+                        )
+
+                )
+
+        )
+
+)

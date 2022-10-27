@@ -1,0 +1,176 @@
+
+                    stdClass Object
+(
+    [type] => 1
+    [encoding] => 0
+    [ifsubtype] => 1
+    [subtype] => RELATED
+    [ifdescription] => 0
+    [ifid] => 0
+    [ifdisposition] => 0
+    [ifdparameters] => 0
+    [ifparameters] => 1
+    [parameters] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [attribute] => boundary
+                    [value] => 000000000000af224505ec042acb
+                )
+
+        )
+
+    [parts] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => 1
+                    [encoding] => 0
+                    [ifsubtype] => 1
+                    [subtype] => ALTERNATIVE
+                    [ifdescription] => 0
+                    [ifid] => 0
+                    [ifdisposition] => 0
+                    [ifdparameters] => 0
+                    [ifparameters] => 1
+                    [parameters] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [attribute] => boundary
+                                    [value] => 000000000000af224305ec042aca
+                                )
+
+                        )
+
+                    [parts] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => 0
+                                    [encoding] => 4
+                                    [ifsubtype] => 1
+                                    [subtype] => PLAIN
+                                    [ifdescription] => 0
+                                    [ifid] => 0
+                                    [lines] => 34
+                                    [bytes] => 818
+                                    [ifdisposition] => 0
+                                    [ifdparameters] => 0
+                                    [ifparameters] => 1
+                                    [parameters] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [attribute] => charset
+                                                    [value] => UTF-8
+                                                )
+
+                                        )
+
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => 0
+                                    [encoding] => 4
+                                    [ifsubtype] => 1
+                                    [subtype] => HTML
+                                    [ifdescription] => 0
+                                    [ifid] => 0
+                                    [lines] => 46
+                                    [bytes] => 3441
+                                    [ifdisposition] => 0
+                                    [ifdparameters] => 0
+                                    [ifparameters] => 1
+                                    [parameters] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [attribute] => charset
+                                                    [value] => UTF-8
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [type] => 5
+                    [encoding] => 3
+                    [ifsubtype] => 1
+                    [subtype] => JPEG
+                    [ifdescription] => 0
+                    [ifid] => 1
+                    [id] => <18419a3e3ce121c2b81>
+                    [bytes] => 54386
+                    [ifdisposition] => 1
+                    [disposition] => inline
+                    [ifdparameters] => 1
+                    [dparameters] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [attribute] => filename
+                                    [value] => paypal-logo.jpg
+                                )
+
+                        )
+
+                    [ifparameters] => 1
+                    [parameters] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [attribute] => name
+                                    [value] => paypal-logo.jpg
+                                )
+
+                        )
+
+                )
+
+            [2] => stdClass Object
+                (
+                    [type] => 5
+                    [encoding] => 3
+                    [ifsubtype] => 1
+                    [subtype] => JPEG
+                    [ifdescription] => 0
+                    [ifid] => 1
+                    [id] => <>
+                    [bytes] => 54386
+                    [ifdisposition] => 1
+                    [disposition] => inline
+                    [ifdparameters] => 1
+                    [dparameters] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [attribute] => filename
+                                    [value] => paypal-logo.jpg
+                                )
+
+                        )
+
+                    [ifparameters] => 1
+                    [parameters] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [attribute] => name
+                                    [value] => paypal-logo.jpg
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
